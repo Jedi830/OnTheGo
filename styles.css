@@ -4,3 +4,9 @@ body {
     background-color: #212529;
 }
 
+img {
+    width: auto ;
+    max-width: 100%;
+    height: auto;
+
+}
